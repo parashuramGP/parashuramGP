@@ -135,11 +135,82 @@ const parashuram = {
 
 <div align="center">
 
-[![microservice](https://github-readme-stats.vercel.app/api/pin/?username=parashuramGP&repo=microservice&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF5FFF&icon_color=00fff2)](https://github.com/parashuramGP/microservice)
-[![semantic-query-engine](https://github-readme-stats.vercel.app/api/pin/?username=parashuramGP&repo=semantic-query-engine&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF5FFF&icon_color=00fff2)](https://github.com/parashuramGP/semantic-query-engine)
-
-[![short_url](https://github-readme-stats.vercel.app/api/pin/?username=parashuramGP&repo=short_url&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF5FFF&icon_color=00fff2)](https://github.com/parashuramGP/short_url)
-[![first_mldata_model](https://github-readme-stats.vercel.app/api/pin/?username=parashuramGP&repo=first_mldata_model&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF5FFF&icon_color=00fff2)](https://github.com/parashuramGP/first_mldata_model)
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏗️ Microservice Architecture</h3>
+      <div align="center">
+        <a href="https://github.com/parashuramGP/microservice">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=parashuramGP&repo=microservice&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF5FFF&icon_color=00fff2" width="100%"/>
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square"/>
+        <br/><br/>
+        <p>Complete microservice system with inter-service communication, load balancing and containerization</p>
+        <a href="https://github.com/parashuramGP/microservice">
+          <img src="https://img.shields.io/badge/View_Repo-%23BF5FFF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 Semantic Query Engine</h3>
+      <div align="center">
+        <a href="https://github.com/parashuramGP/semantic-query-engine">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=parashuramGP&repo=semantic-query-engine&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF5FFF&icon_color=00fff2" width="100%"/>
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI_Embeddings-BF5FFF?style=flat-square"/>
+        <br/><br/>
+        <p>AI-powered semantic search using vector embeddings and LLM for intelligent query understanding</p>
+        <a href="https://github.com/parashuramGP/semantic-query-engine">
+          <img src="https://img.shields.io/badge/View_Repo-%23BF5FFF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔗 URL Shortener</h3>
+      <div align="center">
+        <a href="https://github.com/parashuramGP/short_url">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=parashuramGP&repo=short_url&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF5FFF&icon_color=00fff2" width="100%"/>
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+        <br/><br/>
+        <p>Fast URL shortener service that converts long URLs into clean short links with redirect tracking</p>
+        <a href="https://github.com/parashuramGP/short_url">
+          <img src="https://img.shields.io/badge/View_Repo-%23BF5FFF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧠 ML Data Model</h3>
+      <div align="center">
+        <a href="https://github.com/parashuramGP/first_mldata_model">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=parashuramGP&repo=first_mldata_model&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF5FFF&icon_color=00fff2" width="100%"/>
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <br/><br/>
+        <p>Machine learning model for data analysis, feature engineering and prediction with visualization</p>
+        <a href="https://github.com/parashuramGP/first_mldata_model">
+          <img src="https://img.shields.io/badge/View_Repo-%23BF5FFF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -149,7 +220,7 @@ const parashuram = {
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hirmm530@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parashuram.codes@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parashuramGP)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parashuramGP)
 
