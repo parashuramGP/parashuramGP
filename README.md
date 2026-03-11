@@ -1,28 +1,16 @@
 <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Parashuram%20GP&fontSize=55&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=LLM%20Builder%20%7C%20AI%20Application%20Developer%20%7C%20Cloud%20Engineer&descAlignY=60&descSize=20&descColor=bf5fff&stroke=00fff2&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Parashuram%20GP&fontSize=55&fontColor=00fff2&animation=fadeIn&fontAlignY=50&stroke=00fff2&strokeWidth=2"/>
 
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=600&color=00FFF2&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=50&lines=LLM+Builder+%F0%9F%A7%A0;AI+Application+Developer+%F0%9F%A4%96;Cloud+%26+Microservices+Engineer+%E2%98%81%EF%B8%8F;Generative+AI+Engineer+%E2%9A%A1;Building+the+Future+with+AI+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-<br/>
-
-<img src="https://img.shields.io/badge/LLM_Builder-%23BF5FFF?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Developer-%2300FFF2?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/Cloud_Engineer-%230f0c29?style=for-the-badge&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=parashuramGP&label=Profile+Views&color=BF5FFF&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/parashuramGP?label=Followers&style=for-the-badge&color=00fff2&labelColor=0f0c29" />
-
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=1&pause=999999&color=BF5FFF&center=false&vCenter=true&repeat=false&width=400&height=50&lines=About+Me" />
 
