@@ -12,31 +12,6 @@
 ---
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=1&pause=999999&color=BF5FFF&center=false&vCenter=true&repeat=false&width=400&height=50&lines=About+Me" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=1&pause=999999&color=00FFF2&center=false&vCenter=true&repeat=false&width=500&height=40&lines=Parashuram+GP+%7C+Bangalore%2C+India" />
-
-```javascript
-const parashuram = {
-  name    : "Parashuram GP",
-  location: "Bangalore, India",
-  roles   : ["LLM Builder", "AI App Developer", "Cloud Engineer"],
-  stack   : ["LangChain", "FastAPI", "Docker", "Node.js"],
-  learning: ["Kubernetes", "RAG Pipelines", "Vector DBs"],
-  funFact : "I turn coffee into AI"
-};
-```
-
-- Building **LLM & GenAI** applications
-- Designing **Cloud & Microservice** architectures
-- Exploring **RAG, Agents & Semantic Search**
-- Deep into **System Design & DSA**
-- Based in **Bangalore, India**
-
-<br clear="right"/>
-
-
----
 
 ## Tech Arsenal
 
