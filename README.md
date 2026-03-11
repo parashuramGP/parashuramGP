@@ -41,30 +41,52 @@ const parashuram = {
 
 <div align="center">
 
-<!-- Row 1 - scrolling left -->
-<marquee behavior="scroll" direction="left" scrollamount="6">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,fastapi,docker,mongodb,postgres&theme=dark" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,fastapi,docker,mongodb,postgres&theme=dark" />
-</marquee>
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/><br/>JavaScript
+    </td>
+    <td align="center" width="130">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65"/><br/>TypeScript
+    </td>
+    <td align="center" width="130">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/><br/>Python
+    </td>
+    <td align="center" width="130">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/><br/>React
+    </td>
+    <td align="center" width="130">
+      <img src="https://techstack-generator.vercel.app/node-icon.svg" width="65" height="65"/><br/>Node.js
+    </td>
+    <td align="center" width="130">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65"/><br/>Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65"/><br/>Nginx
+    </td>
+    <td align="center" width="130">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65"/><br/>AWS
+    </td>
+    <td align="center" width="130">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/><br/>MySQL
+    </td>
+    <td align="center" width="130">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/><br/>GitHub
+    </td>
+    <td align="center" width="130">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65"/><br/>GraphQL
+    </td>
+    <td align="center" width="130">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65"/><br/>Redux
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<!-- Row 2 - scrolling right -->
-<marquee behavior="scroll" direction="right" scrollamount="6">
-<img src="https://skillicons.dev/icons?i=redis,tailwind,html,css,git,github,vscode,linux,postman,nginx,supabase,firebase&theme=dark" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=redis,tailwind,html,css,git,github,vscode,linux,postman,nginx,supabase,firebase&theme=dark" />
-</marquee>
-
-<br/>
-
-<!-- Row 3 - scrolling left slower -->
-<marquee behavior="scroll" direction="left" scrollamount="3">
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,kubernetes,aws,vercel,netlify,prisma,graphql,redux&theme=dark" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,kubernetes,aws,vercel,netlify,prisma,graphql,redux&theme=dark" />
-</marquee>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,tailwind,express,fastapi,git,linux,postman,vscode,firebase,supabase&theme=dark&perline=6" />
 
 </div>
 
