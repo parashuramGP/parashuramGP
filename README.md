@@ -100,25 +100,41 @@ const parashuram = {
 
 </div>
 
----
-
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=parashuramGP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF5FFF&icon_color=00fff2&text_color=ffffff&ring_color=BF5FFF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parashuramGP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF5FFF&text_color=ffffff" width="41%" />
+<!-- Profile Summary Cards Row -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parashuramGP&theme=tokyonight" width="95%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parashuramGP&theme=tokyonight&hide_border=true&background=0D1117&ring=BF5FFF&fire=00fff2&currStreakLabel=BF5FFF" width="60%" />
+<br/>
+
+<!-- Stats + Languages side by side -->
+<img src="https://github-readme-stats.vercel.app/api?username=parashuramGP&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF5FFF&icon_color=00fff2&text_color=ffffff&ring_color=BF5FFF&include_all_commits=true" width="48%" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parashuramGP&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF5FFF&text_color=ffffff" width="36%" />
+
+<br/>
+
+<!-- 4 Summary Mini Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parashuramGP&theme=tokyonight" width="23%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parashuramGP&theme=tokyonight" width="23%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parashuramGP&theme=tokyonight" width="23%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parashuramGP&theme=tokyonight&utcOffset=5.5" width="23%"/>
+
+<br/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parashuramGP&theme=tokyonight&hide_border=true&background=0D1117&ring=BF5FFF&fire=00fff2&currStreakLabel=BF5FFF&sideLabels=BF5FFF&dates=ffffff&stroke=BF5FFF" width="65%" />
 
 </div>
 
 ---
 
-## Trophy Case
+## Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=parashuramGP&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=parashuramGP&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%"/>
 </div>
 
 ---
@@ -126,7 +142,7 @@ const parashuram = {
 ## Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parashuramGP&bg_color=0D1117&color=BF5FFF&line=00fff2&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parashuramGP&bg_color=0D1117&color=BF5FFF&line=00fff2&point=BF5FFF&area_color=BF5FFF&area=true&hide_border=true&custom_title=Parashuram's%20Contribution%20Graph" width="95%"/>
 </div>
 
 ---
