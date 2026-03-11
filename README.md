@@ -24,7 +24,9 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## About Me
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=1&pause=999999&color=BF5FFF&center=false&vCenter=true&repeat=false&width=400&height=50&lines=About+Me" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=1&pause=999999&color=00FFF2&center=false&vCenter=true&repeat=false&width=500&height=40&lines=Parashuram+GP+%7C+Bangalore%2C+India" />
 
 ```javascript
 const parashuram = {
@@ -44,6 +46,7 @@ const parashuram = {
 - Based in **Bangalore, India**
 
 <br clear="right"/>
+
 
 ---
 
