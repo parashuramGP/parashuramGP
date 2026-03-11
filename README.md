@@ -66,7 +66,7 @@ const parashuram = {
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/><br/>React
     </td>
     <td align="center" width="130">
-      <img src="https://techstack-generator.vercel.app/node-icon.svg" width="65" height="65"/><br/>Node.js
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65" height="65"/><br/>Node.js
     </td>
     <td align="center" width="130">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65"/><br/>Docker
