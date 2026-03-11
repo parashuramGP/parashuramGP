@@ -41,20 +41,30 @@ const parashuram = {
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=dark" />
+<!-- Row 1 - scrolling left -->
+<marquee behavior="scroll" direction="left" scrollamount="6">
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,fastapi,docker,mongodb,postgres&theme=dark" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,fastapi,docker,mongodb,postgres&theme=dark" />
+</marquee>
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+<br/>
 
-### Backend & DevOps
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,docker,nginx&theme=dark" />
+<!-- Row 2 - scrolling right -->
+<marquee behavior="scroll" direction="right" scrollamount="6">
+<img src="https://skillicons.dev/icons?i=redis,tailwind,html,css,git,github,vscode,linux,postman,nginx,supabase,firebase&theme=dark" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=redis,tailwind,html,css,git,github,vscode,linux,postman,nginx,supabase,firebase&theme=dark" />
+</marquee>
 
-### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase,firebase&theme=dark" />
+<br/>
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" />
+<!-- Row 3 - scrolling left slower -->
+<marquee behavior="scroll" direction="left" scrollamount="3">
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,kubernetes,aws,vercel,netlify,prisma,graphql,redux&theme=dark" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,kubernetes,aws,vercel,netlify,prisma,graphql,redux&theme=dark" />
+</marquee>
 
 </div>
 
