@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Parashuram%20GP&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Builder&descAlignY=55&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&multiline=false&width=600&lines=LLM+Builder+%F0%9F%A7%A0;AI+Application+Developer+%F0%9F%A4%96;Cloud+%26+Microservices+Engineer+%E2%98%81%EF%B8%8F;Full+Stack+Developer+%F0%9F%9A%80;Building+the+Future+with+AI+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&multiline=false&width=600&lines=LLM+Builder+%F0%9F%A7%A0;AI+Application+Developer+%F0%9F%A4%96;Cloud+%26+Microservices+Engineer+%E2%98%81%EF%B8%8F;Generative+AI+Engineer+%E2%9A%A1;Building+the+Future+with+AI+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=parashuramGP&label=Profile+Views&color=6E40C9&style=for-the-badge" />
 &nbsp;
